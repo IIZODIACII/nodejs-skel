@@ -1,4 +1,4 @@
-import model from "../model/model.js";
+import model from "../models/model.js";
 const Path = require("path");
 var fs = require("fs");
 
